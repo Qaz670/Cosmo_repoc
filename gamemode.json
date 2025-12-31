@@ -1,1 +1,9 @@
+{
+  "Name": "HideAndSeek(API 2.0)",
+  "Description": "Прятки: один игрок ищет остальных",
+  "MaxPlayers": 24,
+  "RoundTime": 180,
+  "Respawn": false,
+  "Teams": false
+}
 
