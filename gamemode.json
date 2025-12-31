@@ -1,5 +1,5 @@
 {
-  "Name": "HideAndSeek(API 2.0)",
+  "Name": "HideAndSeek",
   "Description": "Классические прятки: один игрок ищет остальных",
   "MaxPlayers": 24,
   "RoundTime": 180,
